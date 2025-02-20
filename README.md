@@ -9,12 +9,13 @@ and real-time cyber threats and do automated security reports with remediation.
 
 
 ## 🎯 Features
-✅ AI-Powered Vulnerability Scanner – Automatically identifies cloud security misconfigurations and risks.
-✅ Real-Time Cyber Threat Detection – Uses AI models to detect zero-day attacks, phishing attempts, and advanced cyber threats in real time.
-✅ Automated Security Reports & Fixes – Generates detailed security reports and recommends remediation solutions.
-✅ Cloud-Native & Scalable – Designed for AWS, Google Cloud, and Azure, ensuring seamless scalability and monitoring.
-✅ Intelligent Threat Response – Uses machine learning to identify anomalies and suspicious activities in cloud environments.
-✅ Security Compliance Insights – Helps businesses stay compliant with industry standards (ISO 27001, NIST, GDPR, SOC2, etc.).  
+- ✅ AI-Powered Vulnerability Scanner – Automatically identifies cloud security misconfigurations and risks.
+- ✅ Real-Time Cyber Threat Detection – Uses AI models to detect zero-day attacks, phishing attempts, and advanced cyber threats in real time.
+- ✅ Automated Security Reports & Fixes – Generates detailed security reports and recommends remediation solutions.
+- ✅ Cloud-Native & Scalable – Designed for AWS, Google Cloud, and Azure, ensuring seamless scalability and monitoring.
+- ✅ Intelligent Threat Response – Uses machine learning to identify anomalies and suspicious activities in cloud environments.
+- ✅ Security Compliance Insights – Helps businesses stay compliant with industry standards (ISO 27001, NIST, GDPR, SOC2, etc.).
+
 
 
 
