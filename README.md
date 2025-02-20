@@ -34,10 +34,6 @@ GET	/api/v1/scan	Run a cloud security audit
 POST	/api/v1/report	Generate a security report
 GET	/api/v1/threats	View real-time detected threats
 
-+-------------------+       +-------------------+       +-------------------+
-|  GET /api/v1/scan  | ----> | POST /api/v1/report | ----> | GET /api/v1/threats |
-| (Run Security Scan)|       | (Generate Report)  |       | (View Threats)     |
-+-------------------+       +-------------------+       +-------------------+
 
 
 ## 📖 System Architecture
